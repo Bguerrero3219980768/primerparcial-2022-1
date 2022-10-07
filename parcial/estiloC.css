@@ -1,0 +1,30 @@
+header {
+    width: 100%;
+    background-color: #a5cfe8;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    
+    }
+    
+    .presentacion {
+    display: flex;
+        align-items: center;
+        background-color: #a5cfe8;
+        padding-bottom: 20px;
+    }
+    
+    .presentacion__nombre {
+    
+    margin: 0 auto;
+    
+    }
+    .botons {
+        position: absolute;
+  top:70%;
+  left:50%;
+  margin-left: -65px;
+  margin-top: -20px;
+  width: 130px;
+  height: 40px;
+  text-align: center;
+    }
